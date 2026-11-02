@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+node_modules
+deck_build/
+chrome-*/
+report/*_draft.pptx
+*.inspect.ndjson
+data/raw/

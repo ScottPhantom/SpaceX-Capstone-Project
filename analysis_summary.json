@@ -1,0 +1,1152 @@
+{
+  "dataset": {
+    "rows": 90,
+    "columns": 19,
+    "date_min": "2010-06-04",
+    "date_max": "2020-11-05",
+    "overall_success_rate": 66.7,
+    "successful_landings": 60,
+    "unsuccessful_landings": 30
+  },
+  "site_success": [
+    {
+      "LaunchSite": "KSC LC 39A",
+      "launches": 22,
+      "success_rate": 77.3
+    },
+    {
+      "LaunchSite": "VAFB SLC 4E",
+      "launches": 13,
+      "success_rate": 76.9
+    },
+    {
+      "LaunchSite": "CCAFS SLC 40",
+      "launches": 55,
+      "success_rate": 60.0
+    }
+  ],
+  "orbit_success": [
+    {
+      "Orbit": "SSO",
+      "launches": 5,
+      "success_rate": 100.0
+    },
+    {
+      "Orbit": "ES-L1",
+      "launches": 1,
+      "success_rate": 100.0
+    },
+    {
+      "Orbit": "GEO",
+      "launches": 1,
+      "success_rate": 100.0
+    },
+    {
+      "Orbit": "HEO",
+      "launches": 1,
+      "success_rate": 100.0
+    },
+    {
+      "Orbit": "VLEO",
+      "launches": 14,
+      "success_rate": 85.7
+    },
+    {
+      "Orbit": "LEO",
+      "launches": 7,
+      "success_rate": 71.4
+    },
+    {
+      "Orbit": "PO",
+      "launches": 9,
+      "success_rate": 66.7
+    },
+    {
+      "Orbit": "MEO",
+      "launches": 3,
+      "success_rate": 66.7
+    },
+    {
+      "Orbit": "ISS",
+      "launches": 21,
+      "success_rate": 61.9
+    },
+    {
+      "Orbit": "GTO",
+      "launches": 27,
+      "success_rate": 51.9
+    },
+    {
+      "Orbit": "SO",
+      "launches": 1,
+      "success_rate": 0.0
+    }
+  ],
+  "year_success": [
+    {
+      "Year": 2010,
+      "launches": 1,
+      "success_rate": 0.0
+    },
+    {
+      "Year": 2012,
+      "launches": 1,
+      "success_rate": 0.0
+    },
+    {
+      "Year": 2013,
+      "launches": 3,
+      "success_rate": 0.0
+    },
+    {
+      "Year": 2014,
+      "launches": 6,
+      "success_rate": 33.3
+    },
+    {
+      "Year": 2015,
+      "launches": 6,
+      "success_rate": 33.3
+    },
+    {
+      "Year": 2016,
+      "launches": 8,
+      "success_rate": 62.5
+    },
+    {
+      "Year": 2017,
+      "launches": 18,
+      "success_rate": 83.3
+    },
+    {
+      "Year": 2018,
+      "launches": 18,
+      "success_rate": 61.1
+    },
+    {
+      "Year": 2019,
+      "launches": 10,
+      "success_rate": 90.0
+    },
+    {
+      "Year": 2020,
+      "launches": 19,
+      "success_rate": 84.2
+    }
+  ],
+  "payload_scatter": [
+    {
+      "FlightNumber": 1,
+      "PayloadMass": 6104.9594117647,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "LEO",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 2,
+      "PayloadMass": 525.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "LEO",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 3,
+      "PayloadMass": 677.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "ISS",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 4,
+      "PayloadMass": 500.0,
+      "LaunchSite": "VAFB SLC 4E",
+      "Orbit": "PO",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 5,
+      "PayloadMass": 3170.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "GTO",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 6,
+      "PayloadMass": 3325.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "GTO",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 7,
+      "PayloadMass": 2296.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "ISS",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 8,
+      "PayloadMass": 1316.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "LEO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 9,
+      "PayloadMass": 4535.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "GTO",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 10,
+      "PayloadMass": 4428.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "GTO",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 11,
+      "PayloadMass": 2216.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "ISS",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 12,
+      "PayloadMass": 2395.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "ISS",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 13,
+      "PayloadMass": 570.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "ES-L1",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 14,
+      "PayloadMass": 1898.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "ISS",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 15,
+      "PayloadMass": 4707.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "GTO",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 16,
+      "PayloadMass": 2477.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "ISS",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 17,
+      "PayloadMass": 2034.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "LEO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 18,
+      "PayloadMass": 553.0,
+      "LaunchSite": "VAFB SLC 4E",
+      "Orbit": "PO",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 19,
+      "PayloadMass": 5271.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "GTO",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 20,
+      "PayloadMass": 3136.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "ISS",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 21,
+      "PayloadMass": 4696.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "GTO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 22,
+      "PayloadMass": 3100.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "GTO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 23,
+      "PayloadMass": 2257.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "ISS",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 24,
+      "PayloadMass": 4600.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "GTO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 25,
+      "PayloadMass": 5500.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "GTO",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 26,
+      "PayloadMass": 9600.0,
+      "LaunchSite": "VAFB SLC 4E",
+      "Orbit": "PO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 27,
+      "PayloadMass": 2490.0,
+      "LaunchSite": "KSC LC 39A",
+      "Orbit": "ISS",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 28,
+      "PayloadMass": 5600.0,
+      "LaunchSite": "KSC LC 39A",
+      "Orbit": "GTO",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 29,
+      "PayloadMass": 5300.0,
+      "LaunchSite": "KSC LC 39A",
+      "Orbit": "GTO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 30,
+      "PayloadMass": 6104.9594117647,
+      "LaunchSite": "KSC LC 39A",
+      "Orbit": "LEO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 31,
+      "PayloadMass": 6070.0,
+      "LaunchSite": "KSC LC 39A",
+      "Orbit": "GTO",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 32,
+      "PayloadMass": 2708.0,
+      "LaunchSite": "KSC LC 39A",
+      "Orbit": "ISS",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 33,
+      "PayloadMass": 3669.0,
+      "LaunchSite": "KSC LC 39A",
+      "Orbit": "GTO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 34,
+      "PayloadMass": 9600.0,
+      "LaunchSite": "VAFB SLC 4E",
+      "Orbit": "PO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 35,
+      "PayloadMass": 6761.0,
+      "LaunchSite": "KSC LC 39A",
+      "Orbit": "GTO",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 36,
+      "PayloadMass": 2910.0,
+      "LaunchSite": "KSC LC 39A",
+      "Orbit": "ISS",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 37,
+      "PayloadMass": 475.0,
+      "LaunchSite": "VAFB SLC 4E",
+      "Orbit": "SSO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 38,
+      "PayloadMass": 4990.0,
+      "LaunchSite": "KSC LC 39A",
+      "Orbit": "LEO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 39,
+      "PayloadMass": 9600.0,
+      "LaunchSite": "VAFB SLC 4E",
+      "Orbit": "PO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 40,
+      "PayloadMass": 5200.0,
+      "LaunchSite": "KSC LC 39A",
+      "Orbit": "GTO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 41,
+      "PayloadMass": 3700.0,
+      "LaunchSite": "KSC LC 39A",
+      "Orbit": "GTO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 42,
+      "PayloadMass": 2205.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "ISS",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 43,
+      "PayloadMass": 9600.0,
+      "LaunchSite": "VAFB SLC 4E",
+      "Orbit": "PO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 44,
+      "PayloadMass": 6104.9594117647,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "LEO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 45,
+      "PayloadMass": 4230.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "GTO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 46,
+      "PayloadMass": 6092.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "GTO",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 47,
+      "PayloadMass": 9600.0,
+      "LaunchSite": "VAFB SLC 4E",
+      "Orbit": "PO",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 48,
+      "PayloadMass": 2760.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "ISS",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 49,
+      "PayloadMass": 350.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "HEO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 50,
+      "PayloadMass": 3750.0,
+      "LaunchSite": "KSC LC 39A",
+      "Orbit": "GTO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 51,
+      "PayloadMass": 5383.85,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "GTO",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 52,
+      "PayloadMass": 2410.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "ISS",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 53,
+      "PayloadMass": 7076.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "GTO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 54,
+      "PayloadMass": 9600.0,
+      "LaunchSite": "VAFB SLC 4E",
+      "Orbit": "PO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 55,
+      "PayloadMass": 5800.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "GTO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 56,
+      "PayloadMass": 7060.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "GTO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 57,
+      "PayloadMass": 2800.0,
+      "LaunchSite": "VAFB SLC 4E",
+      "Orbit": "SSO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 58,
+      "PayloadMass": 3000.0,
+      "LaunchSite": "KSC LC 39A",
+      "Orbit": "GTO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 59,
+      "PayloadMass": 4000.0,
+      "LaunchSite": "VAFB SLC 4E",
+      "Orbit": "SSO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 60,
+      "PayloadMass": 2573.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "ISS",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 61,
+      "PayloadMass": 4400.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "MEO",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 62,
+      "PayloadMass": 9600.0,
+      "LaunchSite": "VAFB SLC 4E",
+      "Orbit": "PO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 63,
+      "PayloadMass": 12259.0,
+      "LaunchSite": "KSC LC 39A",
+      "Orbit": "ISS",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 64,
+      "PayloadMass": 2482.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "ISS",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 65,
+      "PayloadMass": 13620.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "VLEO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 66,
+      "PayloadMass": 1425.0,
+      "LaunchSite": "VAFB SLC 4E",
+      "Orbit": "SSO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 67,
+      "PayloadMass": 2227.7,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "ISS",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 68,
+      "PayloadMass": 6500.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "GTO",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 69,
+      "PayloadMass": 15600.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "VLEO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 70,
+      "PayloadMass": 5000.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "ISS",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 71,
+      "PayloadMass": 6800.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "GTO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 72,
+      "PayloadMass": 15400.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "VLEO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 73,
+      "PayloadMass": 6104.9594117647,
+      "LaunchSite": "KSC LC 39A",
+      "Orbit": "SO",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 74,
+      "PayloadMass": 15600.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "VLEO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 75,
+      "PayloadMass": 15400.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "VLEO",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 76,
+      "PayloadMass": 1977.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "ISS",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 77,
+      "PayloadMass": 15600.0,
+      "LaunchSite": "KSC LC 39A",
+      "Orbit": "VLEO",
+      "Class": 0,
+      "Outcome": "Unsuccessful landing"
+    },
+    {
+      "FlightNumber": 78,
+      "PayloadMass": 15400.0,
+      "LaunchSite": "KSC LC 39A",
+      "Orbit": "VLEO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 79,
+      "PayloadMass": 9525.0,
+      "LaunchSite": "KSC LC 39A",
+      "Orbit": "ISS",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 80,
+      "PayloadMass": 15400.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "VLEO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 81,
+      "PayloadMass": 15400.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "VLEO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 82,
+      "PayloadMass": 3880.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "MEO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 83,
+      "PayloadMass": 6104.9594117647,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "GEO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 84,
+      "PayloadMass": 15400.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "VLEO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 85,
+      "PayloadMass": 1600.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "SSO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 86,
+      "PayloadMass": 15400.0,
+      "LaunchSite": "KSC LC 39A",
+      "Orbit": "VLEO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 87,
+      "PayloadMass": 15400.0,
+      "LaunchSite": "KSC LC 39A",
+      "Orbit": "VLEO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 88,
+      "PayloadMass": 15400.0,
+      "LaunchSite": "KSC LC 39A",
+      "Orbit": "VLEO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 89,
+      "PayloadMass": 15400.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "VLEO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    },
+    {
+      "FlightNumber": 90,
+      "PayloadMass": 3681.0,
+      "LaunchSite": "CCAFS SLC 40",
+      "Orbit": "MEO",
+      "Class": 1,
+      "Outcome": "Successful landing"
+    }
+  ],
+  "launch_sites": [
+    {
+      "Launch Site": "CCAFS LC-40",
+      "Lat": 28.56230197,
+      "Long": -80.57735648,
+      "Launches": 26
+    },
+    {
+      "Launch Site": "CCAFS SLC-40",
+      "Lat": 28.56319718,
+      "Long": -80.57682003,
+      "Launches": 7
+    },
+    {
+      "Launch Site": "KSC LC-39A",
+      "Lat": 28.57325457,
+      "Long": -80.64689529,
+      "Launches": 13
+    },
+    {
+      "Launch Site": "VAFB SLC-4E",
+      "Lat": 34.63283416,
+      "Long": -120.6107455,
+      "Launches": 10
+    }
+  ],
+  "proximities": [
+    {
+      "feature": "Atlantic coastline",
+      "distance_km": 7.0
+    },
+    {
+      "feature": "NASA railway",
+      "distance_km": 0.9
+    },
+    {
+      "feature": "NASA Causeway",
+      "distance_km": 6.3
+    },
+    {
+      "feature": "Titusville",
+      "distance_km": 16.3
+    }
+  ],
+  "sql": {
+    "launch_sites": [
+      {
+        "Launch_Site": "CCAFS LC-40"
+      },
+      {
+        "Launch_Site": "CCAFS SLC-40"
+      },
+      {
+        "Launch_Site": "KSC LC-39A"
+      },
+      {
+        "Launch_Site": "VAFB SLC-4E"
+      }
+    ],
+    "nasa_crs_payload": [
+      {
+        "total_kg": 48213
+      }
+    ],
+    "first_ground_pad_success": [
+      {
+        "first_date": "2015-12-22"
+      }
+    ],
+    "successful_drone_4000_6000": [
+      {
+        "Booster_Version": "F9 FT B1022",
+        "Payload": "JCSAT-14",
+        "PAYLOAD_MASS__KG_": 4696
+      },
+      {
+        "Booster_Version": "F9 FT B1026",
+        "Payload": "JCSAT-16",
+        "PAYLOAD_MASS__KG_": 4600
+      },
+      {
+        "Booster_Version": "F9 FT  B1021.2",
+        "Payload": "SES-10",
+        "PAYLOAD_MASS__KG_": 5300
+      },
+      {
+        "Booster_Version": "F9 FT  B1031.2",
+        "Payload": "SES-11 / EchoStar 105",
+        "PAYLOAD_MASS__KG_": 5200
+      }
+    ],
+    "mission_outcomes": [
+      {
+        "Mission_Outcome": "Success",
+        "launches": 98
+      },
+      {
+        "Mission_Outcome": "Success (payload status unclear)",
+        "launches": 1
+      },
+      {
+        "Mission_Outcome": "Success ",
+        "launches": 1
+      },
+      {
+        "Mission_Outcome": "Failure (in flight)",
+        "launches": 1
+      }
+    ],
+    "max_payload_boosters": [
+      {
+        "Booster_Version": "F9 B5 B1048.4",
+        "PAYLOAD_MASS__KG_": 15600
+      },
+      {
+        "Booster_Version": "F9 B5 B1049.4",
+        "PAYLOAD_MASS__KG_": 15600
+      },
+      {
+        "Booster_Version": "F9 B5 B1051.3",
+        "PAYLOAD_MASS__KG_": 15600
+      },
+      {
+        "Booster_Version": "F9 B5 B1056.4",
+        "PAYLOAD_MASS__KG_": 15600
+      },
+      {
+        "Booster_Version": "F9 B5 B1048.5",
+        "PAYLOAD_MASS__KG_": 15600
+      },
+      {
+        "Booster_Version": "F9 B5 B1051.4",
+        "PAYLOAD_MASS__KG_": 15600
+      },
+      {
+        "Booster_Version": "F9 B5 B1049.5",
+        "PAYLOAD_MASS__KG_": 15600
+      },
+      {
+        "Booster_Version": "F9 B5 B1060.2 ",
+        "PAYLOAD_MASS__KG_": 15600
+      },
+      {
+        "Booster_Version": "F9 B5 B1058.3 ",
+        "PAYLOAD_MASS__KG_": 15600
+      },
+      {
+        "Booster_Version": "F9 B5 B1051.6",
+        "PAYLOAD_MASS__KG_": 15600
+      },
+      {
+        "Booster_Version": "F9 B5 B1060.3",
+        "PAYLOAD_MASS__KG_": 15600
+      },
+      {
+        "Booster_Version": "F9 B5 B1049.7 ",
+        "PAYLOAD_MASS__KG_": 15600
+      }
+    ],
+    "2015_failures": [
+      {
+        "Landing_Outcome": "Failure (drone ship)",
+        "launches": 2
+      }
+    ],
+    "site_ranking": [
+      {
+        "Launch_Site": "CCAFS SLC-40",
+        "launches": 34
+      },
+      {
+        "Launch_Site": "CCAFS LC-40",
+        "launches": 26
+      },
+      {
+        "Launch_Site": "KSC LC-39A",
+        "launches": 25
+      },
+      {
+        "Launch_Site": "VAFB SLC-4E",
+        "launches": 16
+      }
+    ]
+  },
+  "model": {
+    "split": {
+      "train_rows": 72,
+      "test_rows": 18,
+      "random_state": 2
+    },
+    "models": [
+      {
+        "model": "K-nearest neighbors",
+        "cv_accuracy": 0.8476,
+        "test_accuracy": 0.8333,
+        "precision": 0.8,
+        "recall": 1.0,
+        "f1": 0.8889,
+        "best_params": {
+          "model__n_neighbors": 9,
+          "model__p": 1,
+          "model__weights": "uniform"
+        }
+      },
+      {
+        "model": "Support vector machine",
+        "cv_accuracy": 0.8343,
+        "test_accuracy": 0.8333,
+        "precision": 0.8,
+        "recall": 1.0,
+        "f1": 0.8889,
+        "best_params": {
+          "model__C": 2,
+          "model__kernel": "sigmoid"
+        }
+      },
+      {
+        "model": "Logistic regression",
+        "cv_accuracy": 0.82,
+        "test_accuracy": 0.8333,
+        "precision": 0.8,
+        "recall": 1.0,
+        "f1": 0.8889,
+        "best_params": {
+          "model__C": 0.1
+        }
+      },
+      {
+        "model": "Decision tree",
+        "cv_accuracy": 0.8467,
+        "test_accuracy": 0.7778,
+        "precision": 0.7857,
+        "recall": 0.9167,
+        "f1": 0.8462,
+        "best_params": {
+          "criterion": "gini",
+          "max_depth": 4,
+          "min_samples_leaf": 4
+        }
+      }
+    ],
+    "best_model": "K-nearest neighbors",
+    "confusion_matrix": [
+      [
+        3,
+        3
+      ],
+      [
+        0,
+        12
+      ]
+    ],
+    "test_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "best_predictions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}
